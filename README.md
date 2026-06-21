@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-CD32/blob/master/retroarch/overlay/GameBezels/Amiga/Apidya%20(Europe).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-CD32/blob/master/retroarch/overlay/GameBezels/CD32/Akira%20(Europe).png?raw=true)
